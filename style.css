@@ -1,0 +1,143 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color:rgb(170, 200, 228)
+}
+
+.header{
+    align-items: center;
+    justify-content:center ;
+    display:flex;
+    background-color: rgba(255, 255, 255, 0.493);
+}
+
+h1{
+    font-size:400%;
+}
+
+h2{
+    font-size: 250%;
+}
+
+h3{
+    font-size: 200%;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+
+ul{
+    font-size: 150%;
+}
+
+.section{
+    align-items:center ;
+    justify-content:center;
+    display: flex;
+    background-color: rgba(255, 255, 255, 0.493);
+}
+
+.section2{
+    background-color: rgba(255, 255, 255, 0.493);
+}
+
+.sectionz{
+    justify-content:center;
+    display: flex;
+    background-color: rgba(255, 255, 255, 0.493);
+}
+
+.divo{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.diavolo{
+    margin-right: 2%;
+}
+
+.prog{
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.txtcentre{
+    text-align: center;
+}
+
+.zw{
+    border-radius: 25%;
+    background-color: rgba(248, 218, 12);
+    border: 30px solid rgba(248, 218, 12);
+}
+
+.zwa{
+    border-radius: 25%;
+    background-color: rgb(252, 201, 213);
+    border: 30px solid rgb(252, 201, 213);
+
+}
+
+.zwaa{
+    border-radius: 25%;
+    background-color: rgb(255, 255, 255);
+    border: 30px solid rgb(255, 255, 255);
+}
+
+#eglise{
+    margin-top: 15px;
+    border-radius: 50px;
+    border: 2px solid black;
+    margin-left: 12%;
+
+}
+
+#wa{
+    padding-left: 35%;
+}
+
+
+
+#waaa{
+    padding-left: 38%;
+}
+
+#waa{
+    color: rgb(0, 0, 0);
+    font-size: 150%;
+    border: 2px solid black;
+    border-radius: 3px;
+    background-color: rgba(170, 200, 228, 0.548);
+}
+
+p{
+    font-size: 150%;
+    text-align: center;
+}
+
+.bouton{
+    font-size: 150%;
+    color: rgb(255, 255, 255);
+    background-color: rgb(9, 9, 255);
+    border-radius: 5px;
+    text-decoration: none;
+    border: 2px solid blue;
+}
+
+#boutton{
+margin-left: 45%;
+}
+
+#ough{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#pic{
+    margin-top: 15px;
+    border-radius: 50px;
+    border: 2px solid black;
+}
